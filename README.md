@@ -39,5 +39,9 @@ projeto de estudo com react e nodejs
     git branch main ; git checkout main 
 
 
+### enviar "git push" da branch
+    git add . ; git add * ; git commit -m "fix: ajuste de log debug com prints" ; git push -f origin ajuste_01
+
+
 #### ou trocar branch para uma de teste, se for fazer algum ajuste
     git branch ajuste_01 ; git checkout ajuste_01
