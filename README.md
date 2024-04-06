@@ -18,7 +18,7 @@ projeto de estudo com react e nodejs
       ```
 
  - Para conferir se o download ocorreu corretamente, digite
-  - ```bash 
+   - ```bash 
       node -v ou node --version  
     ```
 
