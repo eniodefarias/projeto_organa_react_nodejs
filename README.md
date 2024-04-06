@@ -12,8 +12,14 @@ projeto de estudo com react e nodejs
 
 ## instalando node no Linux
 
- - Para instalar o Node, abra o terminal e digite: ``` bash sudo apt install nodejs ```
- - Para conferir se o download ocorreu corretamente, digite ``` bash node -v ou node --version  ```
+ - Para instalar o Node, abra o terminal e digite:
+   - ``` bash 
+sudo apt install nodejs 
+```
+ - Para conferir se o download ocorreu corretamente, digite
+  - ``` bash 
+node -v ou node --version  
+```
 
 
 ---
