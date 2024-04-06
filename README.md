@@ -21,7 +21,7 @@ projeto de estudo com react e nodejs
 
 ### iniciar o repo
     git init
-    git remote add origin https://github.com/eniodefarias/sv000_projeto_name.git
+    git remote add origin https://github.com/eniodefarias/projeto_organa_react_nodejs.git
 
 
 
