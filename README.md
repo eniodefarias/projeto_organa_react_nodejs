@@ -24,7 +24,7 @@ projeto de estudo com react e nodejs
       ```
 
 - modelo do figma: https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?type=design&node-id=190-1050&mode=design&t=kNGHgmJrdEYFcPap-0
-- imagens para utilizar: [modelos](modelos)
+- imagens para utilizar: [modelos](modelos/imagens)
 
 
 
